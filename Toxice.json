@@ -12,9 +12,7 @@
         "password": "pass456",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    }
-]
-
+    },
     {
         "device_id": "0f4b3ba386d01d06",
         "username": "toxice_Ox",
