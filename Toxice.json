@@ -26,5 +26,12 @@
         "password": "9090",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "951170ec888c70d8",
+        "username": "user3",
+        "password": "9090",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
