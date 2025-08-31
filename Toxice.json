@@ -40,5 +40,12 @@
         "password": "9090",
         "expirydate": "15-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ef7e0bcef7a382d9",
+        "username": "nitin",
+        "password": "8907",
+        "expirydate": "15-09false",
+        "Allowoffline": true
     }
 ]
